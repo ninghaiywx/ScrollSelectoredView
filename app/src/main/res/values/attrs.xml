@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollSelectorView">
+        <attr name="selectoredColor" format="color|reference"/>
+        <attr name="commonColor" format="color|reference"/>
+        <attr name="selectoredTextSize" format="float"/>
+        <attr name="commonTextSize" format="float"/>
+    </declare-styleable>
+</resources>
